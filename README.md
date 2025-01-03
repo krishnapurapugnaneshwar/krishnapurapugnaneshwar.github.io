@@ -24,9 +24,13 @@ Matriculation                                                                   
 - JAVA
 - SQL
 - HTML && CSS
+- JavaScript
 - REACT.JS
 
 
 ## Certifications:
 
 - Atended 2 days training program on source Code Management using Git & GitHub conducted by APSSDC at my college
+-  Completed all milestones conducted by Wipro on JAVA FULLSTACK.
+-  Certified in Oracle Cloud Infrastructure by Oracle Corporation. 
+
